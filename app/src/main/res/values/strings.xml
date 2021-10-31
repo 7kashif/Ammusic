@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ammusic</string>
+    <string name="enter_video_url">Enter video url</string>
+    <string name="add">Add</string>
+    <string name="click_on_the_button_to_add_a_video_to_the_list">Click on the \'+\' button to add a video to the list.</string>
+    <string name="videos">Videos</string>
+</resources>
