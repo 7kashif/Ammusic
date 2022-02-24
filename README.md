@@ -8,8 +8,6 @@
         width="30%" height="50%"><img
         src="https://user-images.githubusercontent.com/59311205/155559865-54495adf-0047-416b-a85a-37e17f96d045.png"
         width="30%" height="50%"><img
-        src="https://user-images.githubusercontent.com/59311205/155559872-f1db1348-20b0-44bf-b535-9cf0124c47db.png"
-        height="30%" width="50%">
 </p>
 
 <h4>Technologies Used</h4>
