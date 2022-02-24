@@ -4,7 +4,7 @@
 
 <p><img src="https://user-images.githubusercontent.com/59311205/155560500-d600bad3-526f-4526-9cfb-ba5914b1f436.png"
         width="30%" height="50%"><img
-        src="https://user-images.githubusercontent.com/59311205/155559858-9a8ff904-da65-4af5-81ed-b0c5aa4e5bef.png"
+        src="https://user-images.githubusercontent.com/59311205/155560623-d3068f75-2418-4f00-bec1-8c369af5c28f.png"
         width="30%" height="50%"><img
         src="https://user-images.githubusercontent.com/59311205/155559865-54495adf-0047-416b-a85a-37e17f96d045.png"
         width="30%" height="50%"><img
@@ -19,5 +19,4 @@
     <li>Room persistence</li>
     <li>Kotlin Coroutines</li>
 </ul>
-
 
