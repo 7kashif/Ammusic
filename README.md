@@ -2,7 +2,7 @@
 <h4 align="center">Play youtube videos in background by just using their URL. Create and repeat through your playlist.
 </h4>
 
-<p><img src="hhttps://user-images.githubusercontent.com/59311205/155559851-7ddcc15c-eb10-493f-90c4-f46eef2d81c5.png"
+<p><img src="https://user-images.githubusercontent.com/59311205/155560500-d600bad3-526f-4526-9cfb-ba5914b1f436.png"
         width="30%" height="50%"><img
         src="https://user-images.githubusercontent.com/59311205/155559858-9a8ff904-da65-4af5-81ed-b0c5aa4e5bef.png"
         width="30%" height="50%"><img
@@ -19,4 +19,5 @@
     <li>Room persistence</li>
     <li>Kotlin Coroutines</li>
 </ul>
+
 
